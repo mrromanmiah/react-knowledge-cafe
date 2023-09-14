@@ -6,7 +6,7 @@
         "author": "Jane Smith",
         "author_img": "https://i.ibb.co/JKgdVyn/27470334-7309681.jpg",
         "posted_date": "Mar 14 (5 Days ago)",
-        "reading_time": "5",
+        "reading_time": 5,
         "hashtags": [
             "mystery",
             "adventure",
@@ -20,7 +20,7 @@
         "author": "John Doe",
         "author_img": "https://i.ibb.co/x2trgRN/27470346-7294811.jpg",
         "posted_date": "Mar 15 (4 Days ago)",
-        "reading_time": "6",
+        "reading_time": 6,
         "hashtags": [
             "fantasy",
             "sciencefiction",
@@ -34,7 +34,7 @@
         "author": "Alice Johnson",
         "author_img": "https://i.ibb.co/71Y2by1/27470336-7294793.jpg",
         "posted_date": "Mar 16 (3 Days ago)",
-        "reading_time": "3",
+        "reading_time": 3,
         "hashtags": [
             "cooking",
             "recipes",
@@ -48,7 +48,7 @@
         "author": "David Brown",
         "author_img": "https://i.ibb.co/ZxJZsWR/27470341-7294795.jpg",
         "posted_date": "Mar 17 (2 Days ago)",
-        "reading_time": "7",
+        "reading_time": 7,
         "hashtags": [
             "space",
             "astronomy",
@@ -62,7 +62,7 @@
         "author": "Emily Green",
         "author_img": "https://i.ibb.co/M1BSjG3/27470339-7294787.jpg",
         "posted_date": "Mar 18 (1 Day ago)",
-        "reading_time": "4",
+        "reading_time": 4,
         "hashtags": [
             "gardening",
             "plants",
